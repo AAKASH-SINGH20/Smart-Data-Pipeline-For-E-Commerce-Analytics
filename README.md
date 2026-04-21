@@ -90,5 +90,5 @@ SELECT product, SUM(quantity) AS total_sold FROM orders GROUP BY product ORDER B
 
 ## Author
 
-Arpit Raj
-23053265
+Aakash Singh
+23051803
